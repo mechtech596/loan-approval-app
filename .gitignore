@@ -1,0 +1,19 @@
+# Virtual environment folder
+myenv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints
+
+# Streamlit cache folder (optional)
+.streamlit/
+
+# System files (Windows)
+Thumbs.db
+.DS_Store
+
+# Logs or temporary files
+*.log
